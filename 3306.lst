@@ -1,0 +1,537 @@
+
+Starting Nmap 4.53 ( http://insecure.org ) at 2011-12-30 21:03 CST
+Interesting ports on virtual-hsrp-149-1.csd.uwm.edu (129.89.149.1):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:00:0C:07:AC:95 (Cisco Systems)
+
+Interesting ports on chinook-149-2.csd.uwm.edu (129.89.149.2):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:24:14:20:89:41 (Unknown)
+
+Interesting ports on monorail-glrf.uits.uwm.edu (129.89.149.19):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:22:19:31:4C:30 (Unknown)
+
+Interesting ports on 129.89.149.21:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:11:2F:FD:1F (Andover Controls)
+
+Interesting ports on goetz-avtech.glwi.uwm.edu (129.89.149.22):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:4A:9F:A4:72 (Pronet Gmbh)
+
+Interesting ports on udvadia-print.glwi.uwm.edu (129.89.149.25):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:1E:0B:5B:27:BD (Hewlett Packard)
+
+Interesting ports on paddock.cgls.uwm.edu (129.89.149.26):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:6B:0A:66 (Axis Communications AB)
+
+Interesting ports on fishmon01.glwi.uwm.edu (129.89.149.33):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:4A:06:92:FE (Pronet Gmbh)
+
+Interesting ports on rm176water.glwi.uwm.edu (129.89.149.36):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:90:E8:11:FD:E9 (Moxa Technologies)
+
+Interesting ports on nc0-glrf.metasys.uwm.edu (129.89.149.37):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:10:8D:02:6E:A9 (Johnson Controls)
+
+Interesting ports on lasergene.glwi.uwm.edu (129.89.149.38):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:0D:93:B1:D3:66 (Apple Computer)
+
+Interesting ports on bench2a.glwi.uwm.edu (129.89.149.41):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:6B:0C:71 (Axis Communications AB)
+
+Interesting ports on 129.89.149.46:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:6B:0A:67 (Axis Communications AB)
+
+Interesting ports on drainflow-west.glwi.uwm.edu (129.89.149.47):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:D0:69:40:21:8A (Technologic Systems)
+
+Interesting ports on tomh-desk.glwi.uwm.edu (129.89.149.55):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:11:43:1C:50:69 (Dell)
+
+Interesting ports on 129.89.149.57:
+PORT     STATE SERVICE
+3306/tcp open  mysql
+MAC Address: 00:D0:C9:A0:86:58 (Advantech CO.)
+
+Interesting ports on mfb-print.glwi.uwm.edu (129.89.149.59):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:C0:02:2A:59:D8 (Sercomm)
+
+Interesting ports on sc01.glwi.uwm.edu (129.89.149.60):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:6B:0A:63 (Axis Communications AB)
+
+Interesting ports on binkowski-print.glwi.uwm.edu (129.89.149.62):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 08:00:37:31:9F:1E (Fuji-xerox CO.)
+
+Interesting ports on usda-tempc.glwi.uwm.edu (129.89.149.63):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:4A:B3:69:F0 (Pronet Gmbh)
+
+Interesting ports on tomh.glwi.uwm.edu (129.89.149.65):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+
+Interesting ports on goetzfish.glwi.uwm.edu (129.89.149.66):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:4A:9F:E0:E4 (Pronet Gmbh)
+
+Interesting ports on wxstation.glwi.uwm.edu (129.89.149.68):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:90:E8:11:FE:EE (Moxa Technologies)
+
+Interesting ports on dingledine.cgls.uwm.edu (129.89.149.70):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:4A:67:60:D4 (Pronet Gmbh)
+
+Interesting ports on goetz-do.glwi.uwm.edu (129.89.149.71):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:D0:2C:04:87:50 (Campbell Scientific)
+
+Interesting ports on foran.glwi.uwm.edu (129.89.149.74):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:3B:10:F7 (Axis Communications AB)
+
+Interesting ports on lanier.glwi.uwm.edu (129.89.149.75):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:00:74:C6:1F:5C (Ricoh Company)
+
+Interesting ports on waterdata.glwi.uwm.edu (129.89.149.77):
+PORT     STATE SERVICE
+3306/tcp open  mysql
+MAC Address: 08:00:27:CF:62:82 (Cadmus Computer Systems)
+
+Interesting ports on klaper-print.glwi.uwm.edu (129.89.149.78):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:80:77:38:9D:D8 (Brother Industries)
+
+Interesting ports on printstation.glwi.uwm.edu (129.89.149.79):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 08:00:27:59:BC:25 (Cadmus Computer Systems)
+
+Interesting ports on brown.glwi.uwm.edu (129.89.149.83):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:0D:56:70:19:A7 (Dell Pcba Test)
+
+Interesting ports on vm01.glwi.uwm.edu (129.89.149.91):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: BC:30:5B:D6:3E:7A (Unknown)
+
+Interesting ports on 167desk.uits.uwm.edu (129.89.149.94):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:01:03:35:A9:C1 (3com)
+
+Interesting ports on glwi-7eaee020c6.uits.uwm.edu (129.89.149.95):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:23:AE:A7:98:61 (Unknown)
+
+Interesting ports on nikonc1-pc.uits.uwm.edu (129.89.149.104):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 18:A9:05:F1:D8:3A (Unknown)
+
+Interesting ports on bootsmalab.glwi.uwm.edu (129.89.149.108):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:14:22:62:16:ED (Dell)
+
+Interesting ports on bootsma.glwi.uwm.edu (129.89.149.109):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:17:08:90:D1:B1 (Hewlett Packard)
+
+Interesting ports on waterbase.uwm.edu (129.89.149.110):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 08:00:27:17:46:2D (Cadmus Computer Systems)
+
+Interesting ports on sys01.glwi.uwm.edu (129.89.149.111):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:0D:56:BA:82:C8 (Dell Pcba Test)
+
+Interesting ports on 129.89.149.112:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:04:C1:4E:4D:5C (Cisco Systems)
+
+Interesting ports on carvan.glwi.uwm.edu (129.89.149.115):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:0F:20:D2:80:3B (Hewlett Packard)
+
+Interesting ports on www.glwi.uwm.edu (129.89.149.126):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 08:00:27:17:46:2D (Cadmus Computer Systems)
+
+Interesting ports on www.waterbase.uwm.edu (129.89.149.128):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 08:00:27:17:46:2D (Cadmus Computer Systems)
+
+Interesting ports on greencam.glwi.uwm.edu (129.89.149.129):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:8C:5E:B5:B1 (Axis Communications AB)
+
+Interesting ports on wbr-1310.uits.uwm.edu (129.89.149.132):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:15:E9:EC:D8:AD (D-Link)
+
+Interesting ports on greg-pc.uits.uwm.edu (129.89.149.133):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:0D:56:D6:A6:34 (Dell Pcba Test)
+
+Interesting ports on goetzlab.uits.uwm.edu (129.89.149.134):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:1A:A0:95:F2:EC (Dell)
+
+Interesting ports on reu1.uits.uwm.edu (129.89.149.137):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:12:3F:D4:77:86 (Dell)
+
+Interesting ports on 261-bx60.uits.uwm.edu (129.89.149.139):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:E0:4D:18:F3:47 (Internet Initiative Japan)
+
+Interesting ports on di-604.uits.uwm.edu (129.89.149.141):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:15:E9:19:87:6F (D-Link)
+
+Interesting ports on 129.89.149.143:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:22:19:35:48:A2 (Unknown)
+
+Interesting ports on niehsfiles.uits.uwm.edu (129.89.149.146):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:0C:F1:8A:46:80 (Intel)
+
+Interesting ports on ceh-glrf265-x1.ad.uwm.edu (129.89.149.147):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 78:2B:CB:B3:86:F4 (Unknown)
+
+Interesting ports on idrac-7lh5fp1.uits.uwm.edu (129.89.149.153):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: BC:30:5B:D6:3E:7B (Unknown)
+
+Interesting ports on sequencer.uits.uwm.edu (129.89.149.157):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:11:43:B7:1F:EA (Dell)
+
+Interesting ports on glwi-a33349aedd.uits.uwm.edu (129.89.149.159):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:25:64:E5:BC:22 (Unknown)
+
+Interesting ports on 129.89.149.160:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 1C:AF:F7:AB:3E:5A (Unknown)
+
+Interesting ports on tomhxp.glwi.uwm.edu (129.89.149.161):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 08:00:27:96:00:27 (Cadmus Computer Systems)
+
+Interesting ports on 129.89.149.162:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 98:FC:11:93:FE:44 (Unknown)
+
+Interesting ports on moose.uits.uwm.edu (129.89.149.163):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:C0:A8:7D:B5:F7 (GVC)
+
+Interesting ports on 129.89.149.164:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:16:B6:DD:32:A4 (Cisco-Linksys)
+
+Interesting ports on dhcp.uits.uwm.edu (129.89.149.166):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:90:C2:CB:E6:6E (JK microsystems)
+
+Interesting ports on npic6f4ee.uits.uwm.edu (129.89.149.168):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:11:0A:C6:F4:EE (Hewlett Packard)
+
+Interesting ports on minint-ushnhmf.uits.uwm.edu (129.89.149.169):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: F0:4D:A2:F0:A0:53 (Unknown)
+
+Interesting ports on ceh-glrf265-x2.ad.uwm.edu (129.89.149.170):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 78:2B:CB:9D:C3:89 (Unknown)
+
+Interesting ports on niehs133aqw.uits.uwm.edu (129.89.149.171):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:06:5B:72:68:2B (Dell Computer)
+
+Interesting ports on buoylab1.uits.uwm.edu (129.89.149.174):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:13:20:D9:98:A4 (Intel Corporate)
+
+Interesting ports on 129.89.149.175:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:1E:37:3B:06:50 (USI)
+
+Interesting ports on hotwater.uits.uwm.edu (129.89.149.180):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:0C:F1:BF:CE:BB (Intel)
+
+Interesting ports on nieh-lt1-dell.uits.uwm.edu (129.89.149.181):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:0B:DB:17:B2:4E (Dell ESG Pcba Test)
+
+Interesting ports on mfb-aquawatch1.uits.uwm.edu (129.89.149.182):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:13:8F:75:87:C2 (Asiarock Incorporation)
+
+Interesting ports on 129.89.149.185:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:11:95:00:74:8D (D-Link)
+
+Interesting ports on 129.89.149.186:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:19:83:00:A8:C0 (CCT R&D Limited)
+
+Interesting ports on security.uits.uwm.edu (129.89.149.188):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:19:B9:15:79:51 (Dell)
+
+Interesting ports on henry-pc.uits.uwm.edu (129.89.149.190):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: F0:4D:A2:39:E9:6D (Unknown)
+
+Interesting ports on 129.89.149.191:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:22:64:C7:DF:AF (Unknown)
+
+Interesting ports on 129.89.149.192:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:11:11:1A:AC:C4 (Intel)
+
+Interesting ports on 129.89.149.193:
+PORT     STATE SERVICE
+3306/tcp open  mysql
+MAC Address: E8:06:88:CA:A6:81 (Unknown)
+
+Interesting ports on ceh-henryt-d1.ad.uwm.edu (129.89.149.194):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 78:2B:CB:B7:C1:88 (Unknown)
+
+Interesting ports on rk.uits.uwm.edu (129.89.149.195):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:1F:F3:C8:BC:F7 (Unknown)
+
+Interesting ports on fishlab.uits.uwm.edu (129.89.149.196):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:1A:A0:42:C5:A8 (Dell)
+
+Interesting ports on jpaddock.uits.uwm.edu (129.89.149.197):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:16:76:AA:38:B7 (Intel)
+
+Interesting ports on d6k00k21.uits.uwm.edu (129.89.149.199):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:0B:DB:0C:EA:93 (Dell ESG Pcba Test)
+
+Interesting ports on 687f74311395.uits.uwm.edu (129.89.149.200):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 68:7F:74:31:13:95 (Unknown)
+
+Interesting ports on uwm-c48f2f9e24d.uits.uwm.edu (129.89.149.201):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:B0:D0:D8:B7:25 (Dell Computer)
+
+Interesting ports on tomh-think.uits.uwm.edu (129.89.149.202):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: C8:0A:A9:79:49:B5 (Unknown)
+
+Interesting ports on leatherface.uits.uwm.edu (129.89.149.203):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:12:3F:D3:7B:77 (Dell)
+
+Interesting ports on 133h-aquawatch.uits.uwm.edu (129.89.149.207):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:30:18:A9:D0:60 (Jetway Information Co.)
+
+Interesting ports on sturgeon.uits.uwm.edu (129.89.149.210):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:11:11:A8:BD:97 (Intel)
+
+Interesting ports on 00259cdbfdf7.uits.uwm.edu (129.89.149.211):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:25:9C:DB:FD:F7 (Unknown)
+
+Interesting ports on mclellanlab-pc.uits.uwm.edu (129.89.149.212):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: D0:67:E5:02:A7:CD (Unknown)
+
+Interesting ports on glwi-237c63f365.uits.uwm.edu (129.89.149.216):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:14:22:62:79:83 (Dell)
+
+Interesting ports on carmenxps.uits.uwm.edu (129.89.149.217):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:14:22:3B:34:17 (Dell)
+
+Interesting ports on niehs-aironet.uits.uwm.edu (129.89.149.218):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:40:96:5C:1D:BF (Cisco Systems)
+
+Interesting ports on glwi-04d34d3df5.uits.uwm.edu (129.89.149.219):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:B0:D0:DA:8D:61 (Dell Computer)
+
+Interesting ports on 129.89.149.222:
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:02:E3:16:64:91 (Lite-on Communications)
+
+Interesting ports on reu-gateway.uits.uwm.edu (129.89.149.224):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:50:04:9D:95:48 (3com)
+
+Interesting ports on 129.89.149.225:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:20:00:79:E6:93 (Lexmark International)
+
+Interesting ports on northfacing.uits.uwm.edu (129.89.149.226):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:16:76:CD:AB:D1 (Intel)
+
+Interesting ports on 129.89.149.230:
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:80:77:ED:8E:FB (Brother Industries)
+
+Interesting ports on glwi-e28f7cdb10.uits.uwm.edu (129.89.149.233):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:23:AE:7F:87:CB (Unknown)
+
+Interesting ports on bs-audvadia-gl125.uits.uwm.edu (129.89.149.237):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 00:17:F2:CD:A7:2B (Apple Computer)
+
+Interesting ports on wgr614v9.uits.uwm.edu (129.89.149.238):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:22:3F:2A:1D:17 (Unknown)
+
+Interesting ports on printer2-wi-dnr.glwi.uwm.edu (129.89.149.243):
+PORT     STATE  SERVICE
+3306/tcp closed mysql
+MAC Address: 78:E3:B5:FA:4F:0F (Unknown)
+
+Interesting ports on faa-hrs-5b9hch1.bfs.uwm.local (129.89.149.244):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:21:9B:54:1A:CD (Unknown)
+
+Interesting ports on user4-pc.uits.uwm.edu (129.89.149.246):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: BC:30:5B:BF:BF:70 (Unknown)
+
+Interesting ports on owner-9a8276c44.uits.uwm.edu (129.89.149.248):
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+MAC Address: 00:08:74:C9:24:52 (Dell Computer)
+
+Nmap done: 256 IP addresses (107 hosts up) scanned in 4.095 seconds

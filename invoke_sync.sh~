@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd `dirname $0`
+SSHTUNNELCMD='ssh -f -p 14323 tomh@neeskay.bldg.sfs.uwm.edu -L 33306:127.0.0.1:3306 sleep infinity'
+$SSHTUNNELCMD
+./sync_tables.php trackingdata_flex ysi_layout
+echo done syncing.
+pkill -9 -f "neeskay.bldg.sfs.uwm.edu -[L]"

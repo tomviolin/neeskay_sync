@@ -1,0 +1,10 @@
+4	1
+4	-p31522
+4	sync_tables_ctl.sh
+4	sync_tables.inc.php
+4	sync_tables.sh
+4	.usage.txt
+8	sync_tables.php
+12	--open
+486488	sync_tables.log
+486536	.

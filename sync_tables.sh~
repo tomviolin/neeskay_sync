@@ -1,0 +1,7 @@
+#!/bin/bash
+cd ~/projects/neeskay
+while true; do
+	sleep 10
+	# echo "[`date`]" >> sync_tables.log
+	./sync_tables.php trackingdata_flex ysi_layout >/dev/null 2>&1
+done
