@@ -9,13 +9,13 @@ $DBNAME="neeskay";
 // "Local" MySQL parameters
 //
 $LOCALHOST="waterdata.glwi.uwm.edu";
-$LOCALUSER="mymaster";
-$LOCALPASS='ship$log';
+$LOCALUSER="";
+$LOCALPASS='';
 
 //
 // "Remote" MySQL parameters
 //
 $REMOTEHOST="neeskay.bldg.sfs.uwm.edu";
-$REMOTEUSER="shipuser";
-$REMOTEPASS='arrrrr';
+$REMOTEUSER="";
+$REMOTEPASS='';
 ?>
