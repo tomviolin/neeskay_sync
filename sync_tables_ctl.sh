@@ -6,7 +6,7 @@ else
 	arg=$1
 fi
 
-cd ~/projects/neeskay
+cd /home/tomh/projects/neeskay
 pgrep=`pgrep sync_tables.sh`
 
 case $1 in
@@ -50,7 +50,7 @@ watchdog)
 	if [ "x$pgrep" = "x" ]; then
 		#process not running!
 		echo "sync_tables not running, starting..."
-		cd ~/projects/neeskay/
+		cd /home/tomh/projects/neeskay/
 		./sync_tables_ctl.sh start
 	fi
 	;;

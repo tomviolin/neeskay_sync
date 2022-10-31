@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/projects/neeskay
+cd /home/tomh/projects/neeskay
 while true; do
 	sleep 20
 	# echo "[`date`]" >> sync_tables.log

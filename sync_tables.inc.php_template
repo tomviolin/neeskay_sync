@@ -15,8 +15,7 @@ $LOCALPASS='ship$log';
 //
 // "Remote" MySQL parameters
 //
-// $REMOTEHOST="neeskay.glwi.uwm.edu";
-$REMOTEHOST="127.0.0.1:33306";
-$REMOTEUSER="myslave";
-$REMOTEPASS='ship$log';
+$REMOTEHOST="neeskay.bldg.sfs.uwm.edu";
+$REMOTEUSER="shipuser";
+$REMOTEPASS='arrrrr';
 ?>
