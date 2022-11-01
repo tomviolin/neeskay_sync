@@ -1,4 +1,4 @@
 # m h  dom mon dow   command
 #@reboot  /home/tomh/projects/neeskay/sync_tables_ctl.sh start > /dev/null 2>&1
 #53 * * * * /home/tomh/projects/neeskay/sync_tables_ctl.sh watchdog > /dev/null 2>&1
-* * * * * echo junk 1>&2
+* * * * * /bin/echo junk

@@ -2,8 +2,9 @@
 //
 // $DBNAME: the name of the MySQL database containing the tables
 //          you want to synchronize.
-//          NOTE: the database name needs to be the same on both hosts.
-$DBNAME="neeskay";
+
+$LOCAL_DBNAME="neeskay";
+$REMOTE_DBNAME="neeskay";
 
 //
 // "Local" MySQL parameters
